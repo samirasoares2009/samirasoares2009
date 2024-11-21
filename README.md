@@ -1,7 +1,5 @@
 ## Hi there 👋
 
-<!--
-**samirasoares2009/samirasoares2009** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 algumas sugestoẽs para começar
 
 - 🔭 Atualmente estou trabalhando em atendimento
